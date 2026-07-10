@@ -92,3 +92,6 @@ FPA-Budget-Performance-Dashboard
 - Interactive Reporting
 - Financial Data Visualization
 
+## 📂 Dataset
+
+This project uses a publicly available FP&A variance analysis dataset from Kaggle for educational and portfolio purposes.
